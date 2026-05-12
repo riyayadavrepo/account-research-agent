@@ -56,7 +56,7 @@ research context (sales, competitive intel, partnerships, etc.).
 **Tech:** Python · OpenAI function calling · Tavily search · Streamlit
 · Claude (via Dartmouth Chat API)
 
-[View on GitHub](https://github.com/your-repo/account-research-agent) ↗
+[View on GitHub](https://github.com/riyayadavrepo/account-research-agent) ↗
             """
         )
 
